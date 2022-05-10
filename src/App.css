@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.Poke-Button {
+  height: 45px;
+  width: 200px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Poke-Div {
+  text-align: center;
+}
